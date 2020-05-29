@@ -13,3 +13,13 @@
   font-size: 30px;
   font-style: italic;
 }
+
+.sidebar {
+  width: 30%;
+  float:left;
+}
+
+img {
+  margin: 20px;
+  width: 200px;
+}
