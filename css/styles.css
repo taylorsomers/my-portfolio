@@ -47,6 +47,10 @@ body {
   padding: 5px;
 }
 
+.sidebar h3 {
+  text-align: center;
+}
+
 .sidebar img {
   max-width: 100%
 }
