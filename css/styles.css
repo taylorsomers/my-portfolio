@@ -19,11 +19,15 @@ body {
   font-style: italic;
 }
 
+.paragraph {
+  margin-left: 254px;
+}
+
 .paragraph h2 {
   font-size: 30px;
   text-align: center;
   margin: 20px;
-  margin-left: 254px;
+  margin-left: 0px;
   margin-top: 0px;
   border: 2px solid darkred;
   padding: 5px
@@ -39,6 +43,11 @@ body {
   max-height: 200px;
   padding: 5px;
   padding-left: 0px;
+}
+
+.paragraph p {
+  padding-bottom: 20px;
+  margin-left
 }
 
 .sidebar {
