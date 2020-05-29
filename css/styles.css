@@ -18,6 +18,10 @@ body {
   font-style: italic;
 }
 
+.paragraph h2 {
+  font-size: 30px;
+}
+
 .sidebar {
   width: 200px;
   float: left;
