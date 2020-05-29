@@ -18,21 +18,22 @@ body {
   font-style: italic;
 }
 
-.paragraph {
+.paragraph h2 {
+  font-size: 30px;
+  text-align: center;
   margin: 20px;
   margin-left: 254px;
   margin-top: 0px;
   border: 2px solid darkred;
+  padding: 5px
+}
+
+.paragraph img {
+  float: left;
+  max-width: 200px;
+  max-height: 200px;
   padding: 5px;
-}
-
-.paragraph h2 {
-  font-size: 30px;
-  text-align: center;
-}
-
-.paragraph p {
-  float: inherit;
+  padding-left: 0px;
 }
 
 .sidebar {
@@ -50,4 +51,8 @@ body {
 
 .sidebar img {
   max-width: 100%
+}
+
+.skill {
+  text-decoration: underline;
 }
