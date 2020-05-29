@@ -7,6 +7,7 @@ body {
   margin: 20px;
   border: 2px solid darkred;
   padding: 5px;
+  color: black;
 }
 
 .header h1 {
@@ -26,6 +27,10 @@ body {
   margin-top: 0px;
   border: 2px solid darkred;
   padding: 5px
+}
+
+.paragraph h3 {
+  font-size: 20px;
 }
 
 .paragraph img {
