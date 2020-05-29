@@ -18,14 +18,31 @@ body {
   font-style: italic;
 }
 
+.not-header {
+}
+
+.paragraph {
+  margin: 20px;
+  margin-left: 254px;
+  margin-top: 0px;
+  border: 2px solid darkred;
+  padding: 5px;
+}
+
 .paragraph h2 {
   font-size: 30px;
+  text-align: center;
+}
+
+.paragraph p {
+  float: inherit;
 }
 
 .sidebar {
   width: 200px;
   float: left;
   margin: 20px;
+  margin-top: 0px;
   border: 2px solid darkred;
   padding: 5px;
 }
