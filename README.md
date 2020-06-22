@@ -4,7 +4,7 @@
 
 ## Description
 
-A website showcasing my work as a programmer and web developer, featuring photos, cursory technical info, social media and contact info, and an About Me with educational and professional info. For anyone looking to get a feel for my work and my interests, this is the place to start.
+A website showcasing my work as a programmer and web developer, featuring photos, cursory technical info, social media and contact info, and an About Me with educational and professional info. It was created using the basic HTML and CSS practices we learned in the course of the first week at Epicodus. For anyone looking to get a feel for my work and my interests, this is the place to start.
 
 ## Installation
 
